@@ -1,4 +1,4 @@
-// Made by Mark Baaij
+// Made by Lavictus MB
 // NHTV Programming Entry Assingment
 // For additional information and sources see the "Read Me" file
 
